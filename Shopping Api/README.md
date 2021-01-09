@@ -2,11 +2,10 @@
 Guide to setup Shopping cart Api on local machine
 
 To clone/run Spring boot application:
-(1)->	git clone https://github.com/jainlakshya/ShoppingApi.git
-(2)->	Open powershell or command prompt 
-(3)->	Navigate to project repo on local machine
-(4)->	Run java -jar .\ProductDetails-1.1.0.jar
-(5)-> To access swagger for this api navigate to: http://localhost:8083/swagger-ui.html#/shopping-api-controller
+(1)->	Open powershell or command prompt 
+(2)->	Navigate to project repo on local machine
+(3)->	Run java -jar .\ProductDetails-1.1.0.jar
+(4)-> To access swagger for this api navigate to: http://localhost:8083/swagger-ui.html#/shopping-api-controller
 
 Note: It will also execute all unit test cases and setup memory DB
 
